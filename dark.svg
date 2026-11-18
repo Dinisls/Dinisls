@@ -163,7 +163,7 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.74s" fill="freeze"/>
 <circle cx="496" cy="313" r="3" fill="#22D3EE" opacity="0.9"/>
 <text x="512" y="318" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.2" fill="#94A3B8">FOCUS</text>
-<text x="622" y="318" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#F8FAFC">Swift · Kotlin · JavaScript</text>
+<text x="622" y="318" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#F8FAFC">Swift · TypeScript · JavaScript</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.96s" fill="freeze"/>
 <circle cx="496" cy="343" r="3" fill="#22D3EE" opacity="0.9"/>
@@ -173,31 +173,35 @@
 <text x="492" y="424" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" letter-spacing="2.5" fill="#94A3B8" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze"/>STACK</text>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.70s" fill="freeze"/>
 <rect x="492" y="440" width="63" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.0s" begin="0.00s" repeatCount="indefinite"/></rect>
-<text x="524" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">Swift</text>
+<text x="523.5" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">Swift</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.77s" fill="freeze"/>
-<rect x="565" y="440" width="70" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.6s" begin="0.25s" repeatCount="indefinite"/></rect>
-<text x="600" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">Kotlin</text>
+<rect x="565" y="440" width="100" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.6s" begin="0.25s" repeatCount="indefinite"/></rect>
+<text x="615" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">TypeScript</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.84s" fill="freeze"/>
-<rect x="645" y="440" width="100" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="5.2s" begin="0.50s" repeatCount="indefinite"/></rect>
-<text x="695" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">JavaScript</text>
+<rect x="675" y="440" width="100" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="5.2s" begin="0.50s" repeatCount="indefinite"/></rect>
+<text x="725" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">JavaScript</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.91s" fill="freeze"/>
-<rect x="755" y="440" width="48" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="5.8s" begin="0.75s" repeatCount="indefinite"/></rect>
-<text x="780" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">C++</text>
+<rect x="785" y="440" width="70" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.6s" begin="0.25s" repeatCount="indefinite"/></rect>
+<text x="820" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">Python</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.98s" fill="freeze"/>
-<rect x="814" y="440" width="33" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="6.4s" begin="1.00s" repeatCount="indefinite"/></rect>
-<text x="830" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">C</text>
+<rect x="865" y="440" width="48" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="5.8s" begin="0.75s" repeatCount="indefinite"/></rect>
+<text x="889" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">C++</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="3.05s" fill="freeze"/>
-<rect x="857" y="440" width="56" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.0s" begin="1.25s" repeatCount="indefinite"/></rect>
-<text x="885" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">HTML</text>
+<rect x="923" y="440" width="33" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="6.4s" begin="1.00s" repeatCount="indefinite"/></rect>
+<text x="939.5" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">C</text>
 </g>
 <g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="3.12s" fill="freeze"/>
-<rect x="923" y="440" width="48" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.6s" begin="1.50s" repeatCount="indefinite"/></rect>
-<text x="947" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">CSS</text>
+<rect x="966" y="440" width="56" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.0s" begin="1.25s" repeatCount="indefinite"/></rect>
+<text x="994" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">HTML</text>
+</g>
+<g class="pill" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="3.19s" fill="freeze"/>
+<rect x="1032" y="440" width="48" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.05" stroke="#22D3EE" stroke-opacity="0.14"><animate attributeName="stroke-opacity" values="0.14;0.34;0.14" dur="4.6s" begin="1.50s" repeatCount="indefinite"/></rect>
+<text x="1056" y="459" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F8FAFC" opacity="0.9">CSS</text>
 </g>
 <g class="soc" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.50s" fill="freeze"/>
 <rect x="492" y="502" width="84" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
