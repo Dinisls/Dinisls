@@ -158,7 +158,7 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.52s" fill="freeze"/>
 <circle cx="496" cy="283" r="3" fill="#06B6D4" opacity="0.9"/>
 <text x="512" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.2" fill="#475569">EDUCATION</text>
-<text x="622" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#0F172A">ISTEC Lisboa · CTeSP em Dev. de Dispositivos Móveis</text>
+<text x="622" y="288" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#0F172A">ISTEC Lisboa · Lic. em Engenharia Informática</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="1.74s" fill="freeze"/>
 <circle cx="496" cy="313" r="3" fill="#06B6D4" opacity="0.9"/>
